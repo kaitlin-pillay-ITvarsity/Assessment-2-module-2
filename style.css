@@ -106,11 +106,7 @@ p5{
 }
 #footer{
     text-align: center;
-    left:0;
-    padding-bottom: 0;
-    z-index:0;
     width: 100%;
-    height: 120px;
     background-color:whitesmoke;
 }
 .container {
